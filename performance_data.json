@@ -1,0 +1,374 @@
+[
+  {
+    "function_name": "example_function",
+    "execution_time": 0.305377265000061,
+    "start_metrics": {
+      "timestamp": 1735832639.0623763,
+      "cpu": {
+        "percent": 3.3,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534587392,
+        "percent": 14.5,
+        "used": 1804734464,
+        "free": 12227260416
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77660783,
+        "bytes_recv": 153232966,
+        "packets_sent": 122855,
+        "packets_recv": 149941
+      }
+    },
+    "end_metrics": {
+      "timestamp": 1735832639.2654707,
+      "cpu": {
+        "percent": 0.0,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534521856,
+        "percent": 14.5,
+        "used": 1804820480,
+        "free": 12227153920
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77660901,
+        "bytes_recv": 153233018,
+        "packets_sent": 122857,
+        "packets_recv": 149942
+      }
+    },
+    "args": [
+      0.1
+    ],
+    "kwargs": {}
+  },
+  {
+    "function_name": "example_function",
+    "execution_time": 0.25471049699990544,
+    "start_metrics": {
+      "timestamp": 1735832639.375903,
+      "cpu": {
+        "percent": 2.5,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12533501952,
+        "percent": 14.5,
+        "used": 1805852672,
+        "free": 12226121728
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77662660,
+        "bytes_recv": 153234653,
+        "packets_sent": 122872,
+        "packets_recv": 149957
+      }
+    },
+    "end_metrics": {
+      "timestamp": 1735832639.5285213,
+      "cpu": {
+        "percent": 0.0,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534038528,
+        "percent": 14.5,
+        "used": 1805316096,
+        "free": 12226658304
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "args": [
+      0.05
+    ],
+    "kwargs": {}
+  },
+  {
+    "function_name": "example_function",
+    "execution_time": 0.2543944830003966,
+    "start_metrics": {
+      "timestamp": 1735832639.634676,
+      "cpu": {
+        "percent": 0.8,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534034432,
+        "percent": 14.5,
+        "used": 1805320192,
+        "free": 12226654208
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "end_metrics": {
+      "timestamp": 1735832639.7871397,
+      "cpu": {
+        "percent": 0.0,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534034432,
+        "percent": 14.5,
+        "used": 1805320192,
+        "free": 12226654208
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "args": [
+      0.05
+    ],
+    "kwargs": {}
+  },
+  {
+    "function_name": "example_function",
+    "execution_time": 0.25482714300051157,
+    "start_metrics": {
+      "timestamp": 1735832639.8924954,
+      "cpu": {
+        "percent": 0.0,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534034432,
+        "percent": 14.5,
+        "used": 1805320192,
+        "free": 12226654208
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "end_metrics": {
+      "timestamp": 1735832640.0447936,
+      "cpu": {
+        "percent": 0.8,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534034432,
+        "percent": 14.5,
+        "used": 1805320192,
+        "free": 12226654208
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "args": [
+      0.05
+    ],
+    "kwargs": {}
+  },
+  {
+    "function_name": "example_function",
+    "execution_time": 0.2551993440001752,
+    "start_metrics": {
+      "timestamp": 1735832640.1512368,
+      "cpu": {
+        "percent": 0.0,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534034432,
+        "percent": 14.5,
+        "used": 1805320192,
+        "free": 12226654208
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "end_metrics": {
+      "timestamp": 1735832640.304128,
+      "cpu": {
+        "percent": 0.0,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12534034432,
+        "percent": 14.5,
+        "used": 1805320192,
+        "free": 12226654208
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "args": [
+      0.05
+    ],
+    "kwargs": {}
+  },
+  {
+    "function_name": "example_function",
+    "execution_time": 0.25492451900026936,
+    "start_metrics": {
+      "timestamp": 1735832640.411297,
+      "cpu": {
+        "percent": 1.7,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12533780480,
+        "percent": 14.5,
+        "used": 1805574144,
+        "free": 12226400256
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6967,
+        "read_bytes": 8310197248,
+        "write_bytes": 470872064
+      },
+      "network": {
+        "bytes_sent": 77663562,
+        "bytes_recv": 153235411,
+        "packets_sent": 122879,
+        "packets_recv": 149964
+      }
+    },
+    "end_metrics": {
+      "timestamp": 1735832640.563915,
+      "cpu": {
+        "percent": 0.0,
+        "count": 6,
+        "logical_count": 12
+      },
+      "memory": {
+        "total": 14660329472,
+        "available": 12533522432,
+        "percent": 14.5,
+        "used": 1805832192,
+        "free": 12226142208
+      },
+      "io": {
+        "read_count": 192458,
+        "write_count": 6969,
+        "read_bytes": 8310197248,
+        "write_bytes": 470921216
+      },
+      "network": {
+        "bytes_sent": 77663826,
+        "bytes_recv": 153235517,
+        "packets_sent": 122881,
+        "packets_recv": 149965
+      }
+    },
+    "args": [
+      0.05
+    ],
+    "kwargs": {}
+  }
+]
